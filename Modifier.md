@@ -6,6 +6,10 @@
 
 > 클래스, 변수 또는 메서드의 선언부에 함께 사용되어 부가적인 의미를 부여
 
+* static
+* final
+* abstract
+
 
 
 ### 접근 제어자(Access Modifier)
